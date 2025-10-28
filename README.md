@@ -2,7 +2,9 @@
 
 # Threshold Policy-based Chameleon Hash (TPCH)
 
-We present an implementation of a **Threshold Policy-based Chameleon Hash (TPCH)**, built upon our RSA-based **t-out-of-n Threshold Chameleon Hash (TCH)** construction. TPCH extends the Policy-based Chameleon Hash (PCH) proposed at NDSS 2019 by introducing decentralized authorization and fine-grained redaction control without exposing the trapdoor. Additionally, we provide a policy-based chameleon hash (PCH) in NDSS19.
+We present a **Python implementation** of a **Threshold Policy-based Chameleon Hash (TPCH)**, built upon our RSA-based **t-out-of-n Threshold Chameleon Hash (TCH)** construction.
+TPCH extends the **Policy-based Chameleon Hash (PCH)** proposed at **NDSS 2019** by introducing decentralized authorization and fine-grained redaction control **without exposing the trapdoor**.
+Additionally, we provide a reference implementation of the **Policy-based Chameleon Hash (PCH)** for comparative analysis and validation.
 
 TPCH integrates **threshold cryptography** and **ciphertext-policy attribute-based encryption (CP-ABE)** to achieve secure, auditable, and one-time rewriting authorization in permissioned blockchains. It serves as the core cryptographic primitive for our **Transaction-level Redactable Blockchain (TPRB)** framework, enabling flexible yet verifiable data modification under distributed trust.
 
