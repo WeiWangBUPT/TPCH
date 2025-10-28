@@ -43,6 +43,7 @@ Potential applications include **redactable blockchains**, **regulatory-complian
 # References
 
 [Policy-based Chameleon Hashes and Applications to Blockchain Redaction.](https://www.ndss-symposium.org/ndss-paper/policy-based-chameleon-hashes-and-applications-to-blockchain-redaction/) Derler *et al.*, NDSS 2019
+
 [Redactable Blockchain Supporting Rewriting Authorization without Trapdoor Exposure.](https://doi.org/10.1109/TDSC.2025.3557414) Wei Wang *et al.*, IEEE TDSC 2025
 
 
